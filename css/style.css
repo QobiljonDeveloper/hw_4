@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+section {
+  width: 100%;
+  height: 100vh;
+  background: #293462;
+  border: 2px solid red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
